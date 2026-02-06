@@ -72,7 +72,7 @@ This project builds a **GenAI-powered legal assistant** that helps SMEs:
 ---
 ## 📁 Project Folder Structure
 
-```text
+
 hcl_hackathon/
 │
 ├── app_streamlit.py
@@ -169,7 +169,7 @@ hcl_hackathon/
     └── Project documentation
 
 ---
-
+##
 ### 🧩 System Flow
 
 1. User uploads contract (PDF/DOCX/TXT)
