@@ -1,4 +1,4 @@
-# 🧠 GenAI-Powered Legal Contract Assistant for Indian SMEs
+#  GenAI-Powered Legal Contract Assistant for Indian SMEs
 
 ## 🔗 Live Demo
 https://jdzdq814-8504.inc1.devtunnels.ms/
@@ -70,7 +70,10 @@ This project builds a **GenAI-powered legal assistant** that helps SMEs:
 ⚠️ No external legal APIs or case law databases are used.
 
 ---
-**hcl_hackathon/
+## 📁 Project Folder Structure
+
+```text
+hcl_hackathon/
 │
 ├── app_streamlit.py
 │   └── Main Streamlit application
@@ -163,7 +166,8 @@ This project builds a **GenAI-powered legal assistant** that helps SMEs:
 │   └── Project dependencies
 │
 └── README.md
-    └── Project documentation******
+    └── Project documentation
+
 ---
 
 ## 🧩 System Flow
@@ -188,6 +192,7 @@ This project builds a **GenAI-powered legal assistant** that helps SMEs:
 
 ## 📁 Project Structure
 ## <img width="1916" he<img width="1912" height="637" alt="image" src="https://github.com/user-attachments/assets/e783c7d8-1e49-4dcb-ad4a-a312726fa2d4" />
-ight="862" alt="image" src="https://github.com/user-attachments/assets/c144411c-0ae8-43be-98ea-3ced90c751de" />
+## <img width="1912" height="637" alt="image" src="https://github.com/user-attachments/assets/463c7cb4-2f8c-4e26-8a69-801e96909513" />
+
 
 
