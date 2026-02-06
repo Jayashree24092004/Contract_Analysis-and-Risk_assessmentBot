@@ -72,7 +72,7 @@ This project builds a **GenAI-powered legal assistant** that helps SMEs:
 ---
 ## 📁 Project Folder Structure
 
-
+```text
 hcl_hackathon/
 │
 ├── app_streamlit.py
@@ -167,7 +167,7 @@ hcl_hackathon/
 │
 └── README.md
     └── Project documentation
-
+```
 ---
 ##
 ### 🧩 System Flow
@@ -192,7 +192,8 @@ hcl_hackathon/
 
 
 ### <img width="1916" he<img width="1912" height="637" alt="image" src="https://github.com/user-attachments/assets/e783c7d8-1e49-4dcb-ad4a-a312726fa2d4" />
-### <img width="1912" height="637" alt="image" src="https://github.com/user-attachments/assets/463c7cb4-2f8c-4e26-8a69-801e96909513" />
+### <img width="1916" height="862" alt="image" src="https://github.com/user-attachments/assets/e323c0d7-9723-4fcc-9d0a-5ef784197b6f" />
+
 
 
 
