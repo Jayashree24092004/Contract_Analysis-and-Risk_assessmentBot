@@ -1,0 +1,7 @@
+[TERMINATION_FAIR]
+Either party may terminate this Agreement for convenience upon thirty (30) days' prior written notice to the other party.
+
+[INDEMNITY_BALANCED]
+Each party shall indemnify and hold harmless the other party from third-party claims arising from its own negligence or willful misconduct...
+
+...
