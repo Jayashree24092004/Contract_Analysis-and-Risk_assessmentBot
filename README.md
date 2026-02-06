@@ -190,7 +190,7 @@ hcl_hackathon/
 
 ---
 
-### 📁 Project Structure
+
 ### <img width="1916" he<img width="1912" height="637" alt="image" src="https://github.com/user-attachments/assets/e783c7d8-1e49-4dcb-ad4a-a312726fa2d4" />
 ### <img width="1912" height="637" alt="image" src="https://github.com/user-attachments/assets/463c7cb4-2f8c-4e26-8a69-801e96909513" />
 
