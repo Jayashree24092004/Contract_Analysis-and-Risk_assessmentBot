@@ -70,7 +70,7 @@ This project builds a **GenAI-powered legal assistant** that helps SMEs:
 ⚠️ No external legal APIs or case law databases are used.
 
 ---
-hcl_hackathon/
+**hcl_hackathon/
 │
 ├── app_streamlit.py
 │   └── Main Streamlit application
@@ -163,7 +163,7 @@ hcl_hackathon/
 │   └── Project dependencies
 │
 └── README.md
-    └── Project documentation
+    └── Project documentation******
 ---
 
 ## 🧩 System Flow
@@ -187,4 +187,7 @@ hcl_hackathon/
 ---
 
 ## 📁 Project Structure
+## <img width="1916" he<img width="1912" height="637" alt="image" src="https://github.com/user-attachments/assets/e783c7d8-1e49-4dcb-ad4a-a312726fa2d4" />
+ight="862" alt="image" src="https://github.com/user-attachments/assets/c144411c-0ae8-43be-98ea-3ced90c751de" />
+
 
